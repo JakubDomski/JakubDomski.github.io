@@ -9,6 +9,7 @@ export default class ToggleButton extends EventEmitter {
     }
 
     setEventListeners() {
+
         let sum = 1
 
         this.toggleButton.addEventListener("click", () => {
