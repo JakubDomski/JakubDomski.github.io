@@ -4,7 +4,7 @@ import Environment from "./Environment.js";
 import Room from "./Room.js";
 import Background from "./Background.js";
 import Controls from "./Controls.js";
-import { EventEmitter } from "node:events";
+import { EventEmitter } from "events";
 import Theme from "../Theme.js";
 import ToggleButton from "../ToggleButton.js";
 
